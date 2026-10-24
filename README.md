@@ -144,7 +144,7 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 | :--- | :--- | :--- | :--- |
 | **[Captrix-Software](https://github.com/jitesh-0901/Captrix-Software)** | Intelligent financial data evaluation and algorithmic analysis software | `Algorithms, Data Logic` | [**View Code ↗**](https://github.com/jitesh-0901/Captrix-Software) |
 | **[Claxic-](https://github.com/jitesh-0901/Claxic-)** | Interactive Education Technology Platform for student and course workflows | `React, JavaScript, Tailwind CSS, Node.js` | [**View Code ↗**](https://github.com/jitesh-0901/Claxic-) |
-| **[surprise-14](https://github.com/jitesh-0901/surprise-14)** | Interactive celebratory web application experience | `JavaScript, CSS3` | [**View Code ↗**](https://github.com/jitesh-0901/surprise-14) |
+| **[surprise-14](https://github.com/jitesh-0901/surprise-14)** | Software project & application | `JavaScript` | [**View Code ↗**](https://github.com/jitesh-0901/surprise-14) |
 <!-- RECENT_REPOS:END -->
 
 <br/>
@@ -173,19 +173,19 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792846206154" alt="Jitesh P GitHub Stats" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792846364844" alt="Jitesh P GitHub Stats" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792846206154" alt="Top Languages" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792846364844" alt="Top Languages" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792846206154" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792846364844" alt="GitHub Streak" width="100%" />
   </a>
 </p>
 
