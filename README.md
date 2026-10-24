@@ -11,7 +11,7 @@
 
 <!-- ANIMATED ROTATING TYPING HEADER -->
 <a href="https://github.com/jitesh-0901">
-  <img src="assets/typing_animation.svg" alt="Typing Animation: Full Stack Developer, Web Developer, BCA Student, AI-Assisted Developer" width="100%" />
+  <img src="assets/typing_animation.svg" alt="Typing Animation: Full Stack Developer, Web Developer, BCA Student" width="100%" />
 </a>
 
 <br/><br/>
@@ -39,23 +39,23 @@
 
 ---
 
-## ⚡ Executive Overview
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="64%" valign="top">
 
-### Hello, I'm **Jitesh P** 👋
-**Full Stack Developer** &bull; **BCA Student** &bull; **Developer & Vibe Coder**
+### Hi, I'm **Jitesh P** 👋
+**Full Stack Developer** &bull; **BCA Student**
 
 > *"Building Ideas Into Real-World Applications"*
 
-I am a passionate software developer and BCA student at **Karpagam Academy of Higher Education** (2025–2028). I specialize in engineering responsive full-stack web platforms, exploring modern AI agent tooling, and building functional digital products from scratch.
+I am a software developer and BCA student at **Karpagam Academy of Higher Education** (2025–2028). I enjoy crafting modern web platforms, developing scalable backend APIs, and bringing product ideas to life with clean, performant code.
 
 - 🎓 **Education:** BCA, Karpagam Academy of Higher Education (2025–2028)
-- 💡 **Core Focus:** Modern Web Frameworks (React, Next.js), Server Logic (Node.js, Python), and AI-Assisted Engineering
-- 🛠️ **Workflow Philosophy:** Clean architecture, editorial UI aesthetics, and practical real-world execution
-- 🚀 **Currently Building:** [CLAXIC](https://github.com/jitesh-0901/Claxic-) (EdTech) and [CAPTRIX AI](https://github.com/jitesh-0901/Captrix-Software) (Financial Intelligence)
+- 💻 **Focus:** Modern Web Apps (React, Next.js), Backend Systems (Node.js, Python), and Clean UI/UX
+- 🚀 **Currently Building:** [CLAXIC](https://github.com/jitesh-0901/Claxic-) and [CAPTRIX](https://github.com/jitesh-0901/Captrix-Software)
+- 📍 **Location:** Tamil Nadu, India
 
 <br/>
 
@@ -64,11 +64,7 @@ I am a passionate software developer and BCA student at **Karpagam Academy of Hi
 </a>
 &nbsp;
 <a href="https://github.com/jitesh-0901">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-FF2B12?style=flat-square" alt="Role" />
-</a>
-&nbsp;
-<a href="https://github.com/jitesh-0901">
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Web%20Apps-8957E5?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-FF2B12?style=flat-square" alt="Role" />
 </a>
 
 </td>
@@ -78,11 +74,11 @@ I am a passionate software developer and BCA student at **Karpagam Academy of Hi
 
 <!-- DEVELOPER HERO PORTRAIT -->
 <a href="https://github.com/jitesh-0901">
-  <img src="assets/developer_hero.jpg" width="310" alt="Professional Developer Portrait - Jitesh P" />
+  <img src="assets/developer_hero.jpg" width="300" alt="Professional Developer Portrait - Jitesh P" />
 </a>
 
 <br/>
-<sub><b>Jitesh P</b> &bull; Developer &amp; Vibe Coder</sub><br/>
+<sub><b>Jitesh P</b> &bull; Full Stack Developer</sub><br/>
 <sub><i>Karpagam Academy of Higher Education</i></sub>
 
 </td>
@@ -97,7 +93,7 @@ I am a passionate software developer and BCA student at **Karpagam Academy of Hi
 
 <div align="left">
 
-### 🌐 Frontend Engineering
+### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -107,20 +103,19 @@ I am a passionate software developer and BCA student at **Karpagam Academy of Hi
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### ⚙️ Backend & Systems
+### ⚙️ Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
-### 🧠 Developer Tools & AI Workflows
+### 🔧 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Antigravity-FF2B12?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Dev-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted Dev" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 </div>
@@ -131,8 +126,6 @@ I am a passionate software developer and BCA student at **Karpagam Academy of Hi
 
 ## 🚀 Featured Projects
 
-Real, verified software platforms built with modern technology stacks:
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -141,34 +134,55 @@ Real, verified software platforms built with modern technology stacks:
   <img src="assets/claxic_card.svg" alt="CLAXIC - Education Technology Platform" width="100%" />
 </a>
 
-#### 🎓 [CLAXIC — Education Technology Platform](https://github.com/jitesh-0901/Claxic-)
+#### 🎓 [CLAXIC — Education Platform](https://github.com/jitesh-0901/Claxic-)
 *A comprehensive digital learning platform engineered to streamline modern academic workflows, course delivery, and student engagement.*
 
-- **Stack:** JavaScript, React.js, Next.js, Node.js, Tailwind CSS
-- **Live Deployment:** [claxic.vercel.app](https://claxic.vercel.app)
-- **Repository:** [github.com/jitesh-0901/Claxic-](https://github.com/jitesh-0901/Claxic-)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-[**View Repository →**](https://github.com/jitesh-0901/Claxic-) &nbsp;|&nbsp; [**Live Demo →**](https://claxic.vercel.app)
+[**🚀 Live Demo ↗**](https://claxic.vercel.app) &nbsp;&bull;&nbsp; [**📦 GitHub Repo ↗**](https://github.com/jitesh-0901/Claxic-)
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/jitesh-0901/Captrix-Software">
-  <img src="assets/captrix_card.svg" alt="CAPTRIX AI - Financial Intelligence Platform" width="100%" />
+  <img src="assets/captrix_card.svg" alt="CAPTRIX - Financial Intelligence Platform" width="100%" />
 </a>
 
-#### 📈 [CAPTRIX AI — Financial Intelligence Platform](https://github.com/jitesh-0901/Captrix-Software)
-*An intelligent software solution built to analyze financial data telemetry, evaluate market indicators, and power automated intelligence pipelines.*
+#### 📈 [CAPTRIX — Financial Software](https://github.com/jitesh-0901/Captrix-Software)
+*An intelligent software solution built to analyze financial data, evaluate market indicators, and power automated intelligence workflows.*
 
-- **Stack:** Python, AI Automation, Financial Data Algorithms
-- **Type:** Financial Analytics & Algorithmic Engine
-- **Repository:** [github.com/jitesh-0901/Captrix-Software](https://github.com/jitesh-0901/Captrix-Software)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Analytics-FF2B12?style=flat-square" alt="Analytics" />
+  <img src="https://img.shields.io/badge/Algorithms-8957E5?style=flat-square" alt="Algorithms" />
+</p>
 
-[**View Repository →**](https://github.com/jitesh-0901/Captrix-Software)
+[**📦 GitHub Repo ↗**](https://github.com/jitesh-0901/Captrix-Software)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+## 📂 All Projects & Repositories
+
+> *⚡ This section automatically updates whenever a new project or repository is published on GitHub.*
+
+<!-- RECENT_REPOS:START -->
+| Project | Description | Primary Tech | Links |
+| :--- | :--- | :--- | :--- |
+| **[Captrix-Software](https://github.com/jitesh-0901/Captrix-Software)** | Intelligent financial data evaluation and algorithmic analysis engine | `Python, Automation` | [**GitHub ↗**](https://github.com/jitesh-0901/Captrix-Software) |
+| **[Claxic-](https://github.com/jitesh-0901/Claxic-)** | Interactive Education Technology Platform for student and course workflows | `React, Next.js, JavaScript, Tailwind` | [**Live Demo ↗**](https://claxic.vercel.app) &nbsp;&bull;&nbsp; [**GitHub ↗**](https://github.com/jitesh-0901/Claxic-) |
+| **[surprise-14](https://github.com/jitesh-0901/surprise-14)** | Interactive celebratory web application experience | `JavaScript, CSS3` | [**Live Demo ↗**](https://surprise-14.vercel.app) &nbsp;&bull;&nbsp; [**GitHub ↗**](https://github.com/jitesh-0901/surprise-14) |
+<!-- RECENT_REPOS:END -->
 
 <br/>
 
@@ -200,20 +214,6 @@ Real, verified software platforms built with modern technology stacks:
 </tr>
 </table>
 
-<details>
-<summary><b>📋 Verified Repository Telemetry Fallback (Click to expand)</b></summary>
-
-<br/>
-
-| Repository | Primary Technology | Description / Focus | Verified Link |
-| :--- | :--- | :--- | :--- |
-| **Claxic-** | JavaScript / React | Education Technology Platform | [View Repo](https://github.com/jitesh-0901/Claxic-) &bull; [Live App](https://claxic.vercel.app) |
-| **Captrix-Software** | Python | Financial Intelligence Platform | [View Repo](https://github.com/jitesh-0901/Captrix-Software) |
-| **surprise-14** | JavaScript | Web Experience Application | [View Repo](https://github.com/jitesh-0901/surprise-14) &bull; [Live App](https://surprise-14.vercel.app) |
-| **jitesh-0901** | Markdown / Assets | Profile Repository &amp; Developer Showcase | [View Repo](https://github.com/jitesh-0901/jitesh-0901) |
-
-</details>
-
 </div>
 
 <br/>
@@ -231,8 +231,8 @@ Real, verified software platforms built with modern technology stacks:
 
 ### **Bachelor of Computer Applications (BCA)**
 #### **Karpagam Academy of Higher Education** &bull; `2025 — 2028`
-- **Core Disciplines:** Computer Science Fundamentals, Data Structures, Web Development, Software Engineering
-- **Extracurricular Focus:** Hands-on application architecture, modern JavaScript frameworks, and AI workflows
+- **Focus Areas:** Computer Applications, Data Structures, Modern Web Development, System Architecture
+- **Projects:** Academic platforms, full-stack web applications, and utility software
 
 </td>
 </tr>
@@ -244,7 +244,7 @@ Real, verified software platforms built with modern technology stacks:
 
 ## 📬 Contact & Collaborate
 
-Have a project idea, collaboration proposal, or tech inquiry? Feel free to reach out across any platform:
+Have a project idea, collaboration proposal, or tech inquiry? Feel free to reach out:
 
 <div align="center">
 

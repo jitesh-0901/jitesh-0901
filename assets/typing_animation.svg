@@ -77,8 +77,8 @@
       <rect x="128" y="-14" width="9" height="17" class="cursor" />
     </g>
     <g class="t4">
-      <text x="0" y="0" class="role-text">"AI-Assisted Developer"</text>
-      <rect x="225" y="-14" width="9" height="17" class="cursor" />
+      <text x="0" y="0" class="role-text">"Software Craftsman"</text>
+      <rect x="210" y="-14" width="9" height="17" class="cursor" />
     </g>
   </g>
 </svg>
