@@ -4,7 +4,7 @@
 
 <!-- HERO BANNER -->
 <a href="https://github.com/jitesh-0901">
-  <img src="assets/hero_banner.svg" alt="Jitesh P - Full Stack Developer Portfolio Banner" width="100%" />
+  <img src="assets/hero_banner.png" alt="Jitesh P - Full Stack Developer Portfolio Banner" width="100%" />
 </a>
 
 <br/><br/>
@@ -41,12 +41,14 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="64%" valign="top">
+<div align="center">
+  <img src="assets/developer_hero.jpg" width="220" style="border-radius: 16px; max-width: 100%;" alt="Jitesh P" />
+  <br/>
+  <sub><b>Jitesh P</b> &bull; Full Stack Developer &bull; BCA Student</sub><br/>
+  <sub><i>Karpagam Academy of Higher Education (2025–2028)</i></sub>
+</div>
 
-### Hi, I'm **Jitesh P** 👋
-**Full Stack Developer** &bull; **BCA Student**
+<br/>
 
 > *"Building Ideas Into Real-World Applications"*
 
@@ -59,31 +61,15 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 
 <br/>
 
-<a href="#-contact--collaborate">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-238636?style=flat-square&logo=git&logoColor=white" alt="Status" />
-</a>
-&nbsp;
-<a href="https://github.com/jitesh-0901">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-FF2B12?style=flat-square" alt="Role" />
-</a>
-
-</td>
-<td width="36%" align="center" valign="middle">
-
-<br/>
-
-<!-- DEVELOPER HERO PORTRAIT -->
-<a href="https://github.com/jitesh-0901">
-  <img src="assets/developer_hero.jpg" width="300" alt="Professional Developer Portrait - Jitesh P" />
-</a>
-
-<br/>
-<sub><b>Jitesh P</b> &bull; Full Stack Developer</sub><br/>
-<sub><i>Karpagam Academy of Higher Education</i></sub>
-
-</td>
-</tr>
-</table>
+<div align="left">
+  <a href="#-contact--collaborate">
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-238636?style=flat-square&logo=git&logoColor=white" alt="Status" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jitesh-0901">
+    <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-FF2B12?style=flat-square" alt="Role" />
+  </a>
+</div>
 
 <br/>
 
@@ -101,7 +87,6 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 <br/>
@@ -110,15 +95,12 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🎓 [CLAXIC — Education Platform](https://github.com/jitesh-0901/Claxic-)
 
 <a href="https://github.com/jitesh-0901/Claxic-">
   <img src="assets/claxic_card.svg" alt="CLAXIC - Education Technology Platform" width="100%" />
 </a>
 
-#### 🎓 [CLAXIC — Education Platform](https://github.com/jitesh-0901/Claxic-)
 *A comprehensive digital learning platform engineered to streamline modern academic workflows, course delivery, and student engagement.*
 
 <p>
@@ -128,16 +110,16 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-[**🚀 Live Demo ↗**](https://claxic.vercel.app) &nbsp;&bull;&nbsp; [**📦 GitHub Repo ↗**](https://github.com/jitesh-0901/Claxic-)
+[**📦 View Repository on GitHub ↗**](https://github.com/jitesh-0901/Claxic-)
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
+
+### 📈 [CAPTRIX — Financial Software](https://github.com/jitesh-0901/Captrix-Software)
 
 <a href="https://github.com/jitesh-0901/Captrix-Software">
   <img src="assets/captrix_card.svg" alt="CAPTRIX - Financial Intelligence Platform" width="100%" />
 </a>
 
-#### 📈 [CAPTRIX — Financial Software](https://github.com/jitesh-0901/Captrix-Software)
 *An intelligent software solution built to analyze financial data, evaluate market indicators, and power automated intelligence workflows.*
 
 <p>
@@ -147,11 +129,7 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
   <img src="https://img.shields.io/badge/FinTech-238636?style=flat-square" alt="FinTech" />
 </p>
 
-[**📦 GitHub Repo ↗**](https://github.com/jitesh-0901/Captrix-Software)
-
-</td>
-</tr>
-</table>
+[**📦 View Repository on GitHub ↗**](https://github.com/jitesh-0901/Captrix-Software)
 
 <br/>
 
@@ -162,11 +140,11 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 > *⚡ This section automatically updates whenever a new project or repository is published on GitHub.*
 
 <!-- RECENT_REPOS:START -->
-| Project | Description | Primary Tech | Links |
+| Project | Description | Primary Tech | Repository |
 | :--- | :--- | :--- | :--- |
-| **[Captrix-Software](https://github.com/jitesh-0901/Captrix-Software)** | Intelligent financial data evaluation and algorithmic analysis software | `Algorithms, Data Logic` | [**GitHub ↗**](https://github.com/jitesh-0901/Captrix-Software) |
-| **[Claxic-](https://github.com/jitesh-0901/Claxic-)** | Interactive Education Technology Platform for student and course workflows | `React, JavaScript, Tailwind CSS, Node.js` | [**Live Demo ↗**](https://claxic.vercel.app) &nbsp;&bull;&nbsp; [**GitHub ↗**](https://github.com/jitesh-0901/Claxic-) |
-| **[surprise-14](https://github.com/jitesh-0901/surprise-14)** | Interactive celebratory web application experience | `JavaScript, CSS3` | [**Live Demo ↗**](https://surprise-14.vercel.app) &nbsp;&bull;&nbsp; [**GitHub ↗**](https://github.com/jitesh-0901/surprise-14) |
+| **[Captrix-Software](https://github.com/jitesh-0901/Captrix-Software)** | Intelligent financial data evaluation and algorithmic analysis software | `Algorithms, Data Logic` | [**View Code ↗**](https://github.com/jitesh-0901/Captrix-Software) |
+| **[Claxic-](https://github.com/jitesh-0901/Claxic-)** | Interactive Education Technology Platform for student and course workflows | `React, JavaScript, Tailwind CSS, Node.js` | [**View Code ↗**](https://github.com/jitesh-0901/Claxic-) |
+| **[surprise-14](https://github.com/jitesh-0901/surprise-14)** | Interactive celebratory web application experience | `JavaScript, CSS3` | [**View Code ↗**](https://github.com/jitesh-0901/surprise-14) |
 <!-- RECENT_REPOS:END -->
 
 <br/>
@@ -185,31 +163,31 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 - 🔨 Pushed 1 commit to [**Claxic-**](https://github.com/jitesh-0901/Claxic-) &bull; *Oct 9, 2026*
 <!-- RECENT_ACTIVITY:END -->
 
+<br/>
+
+---
+
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792845806899" alt="Jitesh P GitHub Stats" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792846070475" alt="Jitesh P GitHub Stats" width="100%" />
   </a>
-</td>
-<td width="50%" align="center">
+</p>
+
+<p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792845806899" alt="Top Languages" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792846070475" alt="Top Languages" width="100%" />
   </a>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+</p>
+
+<p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792845806899" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792846070475" alt="GitHub Streak" width="100%" />
   </a>
-</td>
-</tr>
-</table>
+</p>
 
 </div>
 
@@ -219,21 +197,14 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td width="80" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93-KAHE-FF2B12?style=flat-square&labelColor=0D1117" alt="Education Icon" />
-</td>
-<td>
+<div align="left">
 
 ### **Bachelor of Computer Applications (BCA)**
 #### **Karpagam Academy of Higher Education** &bull; `2025 — 2028`
 - **Focus Areas:** Computer Applications, Data Structures, Modern Web Development, System Architecture
 - **Projects:** Academic platforms, full-stack web applications, and utility software
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 

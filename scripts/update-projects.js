@@ -4,21 +4,18 @@ const path = require('path');
 const USERNAME = 'jitesh-0901';
 const REPO_EXCLUDES = ['jitesh-0901']; // exclude the profile repo itself
 
-// Known custom descriptions or links if GitHub metadata is empty
+// Known custom descriptions or links if GitHub metadata is empty (NO dummy live links)
 const CUSTOM_METADATA = {
   'Claxic-': {
     desc: 'Interactive Education Technology Platform for student and course workflows',
-    live: 'https://claxic.vercel.app',
     tech: 'React, JavaScript, Tailwind CSS, Node.js'
   },
   'Captrix-Software': {
     desc: 'Intelligent financial data evaluation and algorithmic analysis software',
-    live: '',
     tech: 'Algorithms, Data Logic'
   },
   'surprise-14': {
     desc: 'Interactive celebratory web application experience',
-    live: 'https://surprise-14.vercel.app',
     tech: 'JavaScript, CSS3'
   }
 };
@@ -48,24 +45,15 @@ async function fetchRecentEvents(headers) {
 }
 
 function generateMarkdownTable(repos) {
-  let table = '| Project | Description | Primary Tech | Links |\n';
+  let table = '| Project | Description | Primary Tech | Repository |\n';
   table += '| :--- | :--- | :--- | :--- |\n';
 
   for (const r of repos) {
     const custom = CUSTOM_METADATA[r.name] || {};
-    const desc = custom.desc || r.description || 'Personal project & software application';
+    const desc = custom.desc || r.description || 'Software project & application';
     const tech = custom.tech || r.language || 'Code';
-    const liveUrl = custom.live || r.homepage || '';
 
-    const links = [];
-    if (liveUrl) {
-      links.push(`[**Live Demo ↗**](${liveUrl})`);
-    }
-    links.push(`[**GitHub ↗**](${r.html_url})`);
-
-    const linkStr = links.join(' &nbsp;&bull;&nbsp; ');
-
-    table += `| **[${r.name}](${r.html_url})** | ${desc} | \`${tech}\` | ${linkStr} |\n`;
+    table += `| **[${r.name}](${r.html_url})** | ${desc} | \`${tech}\` | [**View Code ↗**](${r.html_url}) |\n`;
   }
 
   return table;
@@ -172,7 +160,7 @@ async function main() {
     );
 
     fs.writeFileSync(readmePath, content, 'utf8');
-    console.log('Successfully updated README.md with live repos and activity!');
+    console.log('Successfully updated README.md with live repos (no vercel/dummy links)!');
   } catch (err) {
     console.error('Error updating profile:', err);
     process.exit(1);
