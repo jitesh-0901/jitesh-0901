@@ -18,19 +18,19 @@
 
 <!-- QUICK ACTION BUTTONS -->
 <a href="#-featured-projects">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore-Featured%20Projects-FF2B12?style=for-the-badge&labelColor=0D1117" alt="View Projects" />
+  <img src="https://img.shields.io/badge/Explore-Projects-FF2B12?style=flat-square&logo=target&logoColor=white" alt="View Projects" />
 </a>
 &nbsp;
 <a href="https://github.com/jitesh-0901">
-  <img src="https://img.shields.io/badge/GitHub-Profile-E6EDF3?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jitesh0901">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:Jitesh.m0901@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -50,10 +50,10 @@
 
 > *"Building Ideas Into Real-World Applications"*
 
-I am a software developer and BCA student at **Karpagam Academy of Higher Education** (2025–2028). I enjoy crafting modern web platforms, developing scalable backend APIs, and bringing product ideas to life with clean, performant code.
+I am a web developer and BCA student at **Karpagam Academy of Higher Education** (2025–2028). I enjoy crafting modern web platforms, building clean backend logic, and bringing product ideas to life with performant code and intuitive user interfaces.
 
 - 🎓 **Education:** BCA, Karpagam Academy of Higher Education (2025–2028)
-- 💻 **Focus:** Modern Web Apps (React, Next.js), Backend Systems (Node.js, Python), and Clean UI/UX
+- 💻 **Focus:** Modern Web Apps (React, JavaScript), Backend Services (Node.js), and Clean UI/UX
 - 🚀 **Currently Building:** [CLAXIC](https://github.com/jitesh-0901/Claxic-) and [CAPTRIX](https://github.com/jitesh-0901/Captrix-Software)
 - 📍 **Location:** Tamil Nadu, India
 
@@ -91,34 +91,18 @@ I am a software developer and BCA student at **Karpagam Academy of Higher Educat
 
 ## 🛠️ Technology Stack
 
-<div align="left">
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-</div>
 
 <br/>
 
@@ -138,8 +122,8 @@ I am a software developer and BCA student at **Karpagam Academy of Higher Educat
 *A comprehensive digital learning platform engineered to streamline modern academic workflows, course delivery, and student engagement.*
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
@@ -157,9 +141,10 @@ I am a software developer and BCA student at **Karpagam Academy of Higher Educat
 *An intelligent software solution built to analyze financial data, evaluate market indicators, and power automated intelligence workflows.*
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Analytics-FF2B12?style=flat-square" alt="Analytics" />
   <img src="https://img.shields.io/badge/Algorithms-8957E5?style=flat-square" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Data_Logic-38BDF8?style=flat-square" alt="Data Logic" />
+  <img src="https://img.shields.io/badge/Analytics-FF2B12?style=flat-square" alt="Analytics" />
+  <img src="https://img.shields.io/badge/FinTech-238636?style=flat-square" alt="FinTech" />
 </p>
 
 [**📦 GitHub Repo ↗**](https://github.com/jitesh-0901/Captrix-Software)
@@ -179,8 +164,8 @@ I am a software developer and BCA student at **Karpagam Academy of Higher Educat
 <!-- RECENT_REPOS:START -->
 | Project | Description | Primary Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **[Captrix-Software](https://github.com/jitesh-0901/Captrix-Software)** | Intelligent financial data evaluation and algorithmic analysis engine | `Python, Automation` | [**GitHub ↗**](https://github.com/jitesh-0901/Captrix-Software) |
-| **[Claxic-](https://github.com/jitesh-0901/Claxic-)** | Interactive Education Technology Platform for student and course workflows | `React, Next.js, JavaScript, Tailwind` | [**Live Demo ↗**](https://claxic.vercel.app) &nbsp;&bull;&nbsp; [**GitHub ↗**](https://github.com/jitesh-0901/Claxic-) |
+| **[Captrix-Software](https://github.com/jitesh-0901/Captrix-Software)** | Intelligent financial data evaluation and algorithmic analysis software | `Algorithms, Data Logic` | [**GitHub ↗**](https://github.com/jitesh-0901/Captrix-Software) |
+| **[Claxic-](https://github.com/jitesh-0901/Claxic-)** | Interactive Education Technology Platform for student and course workflows | `React, JavaScript, Tailwind CSS, Node.js` | [**Live Demo ↗**](https://claxic.vercel.app) &nbsp;&bull;&nbsp; [**GitHub ↗**](https://github.com/jitesh-0901/Claxic-) |
 | **[surprise-14](https://github.com/jitesh-0901/surprise-14)** | Interactive celebratory web application experience | `JavaScript, CSS3` | [**Live Demo ↗**](https://surprise-14.vercel.app) &nbsp;&bull;&nbsp; [**GitHub ↗**](https://github.com/jitesh-0901/surprise-14) |
 <!-- RECENT_REPOS:END -->
 
@@ -225,7 +210,7 @@ I am a software developer and BCA student at **Karpagam Academy of Higher Educat
 <table>
 <tr>
 <td width="80" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93-KAHE-FF2B12?style=for-the-badge&labelColor=0D1117" alt="Education Icon" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93-KAHE-FF2B12?style=flat-square&labelColor=0D1117" alt="Education Icon" />
 </td>
 <td>
 
@@ -249,15 +234,15 @@ Have a project idea, collaboration proposal, or tech inquiry? Feel free to reach
 <div align="center">
 
 <a href="mailto:Jitesh.m0901@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Jitesh.m0901%40gmail.com-FF2B12?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Jitesh" />
+  <img src="https://img.shields.io/badge/Email-Jitesh.m0901%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Jitesh" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jitesh0901">
-  <img src="https://img.shields.io/badge/LinkedIn-in%2Fjitesh0901-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn Profile" />
+  <img src="https://img.shields.io/badge/LinkedIn-in%2Fjitesh0901-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/jitesh-0901">
-  <img src="https://img.shields.io/badge/GitHub-jitesh--0901-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-jitesh--0901-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
 <br/><br/>

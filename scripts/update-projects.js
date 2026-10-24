@@ -9,12 +9,12 @@ const CUSTOM_METADATA = {
   'Claxic-': {
     desc: 'Interactive Education Technology Platform for student and course workflows',
     live: 'https://claxic.vercel.app',
-    tech: 'React, Next.js, JavaScript, Tailwind'
+    tech: 'React, JavaScript, Tailwind CSS, Node.js'
   },
   'Captrix-Software': {
-    desc: 'Intelligent financial data evaluation and algorithmic analysis engine',
+    desc: 'Intelligent financial data evaluation and algorithmic analysis software',
     live: '',
-    tech: 'Python, Automation'
+    tech: 'Algorithms, Data Logic'
   },
   'surprise-14': {
     desc: 'Interactive celebratory web application experience',

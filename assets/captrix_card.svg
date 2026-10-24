@@ -32,26 +32,26 @@
 
   <!-- Description -->
   <text x="32" y="112" class="p-desc">High-performance Financial Intelligence Software engineered</text>
-  <text x="32" y="134" class="p-desc">with Python, real-time market data evaluation algorithms,</text>
-  <text x="32" y="156" class="p-desc">and automated decision-support intelligence workflows.</text>
+  <text x="32" y="134" class="p-desc">with real-time financial market evaluation algorithms,</text>
+  <text x="32" y="156" class="p-desc">automated workflows, and high-precision data logic.</text>
 
   <!-- Tech Stack Pills -->
   <g transform="translate(32, 186)">
     <!-- Pill 1 -->
-    <rect x="0" y="0" width="76" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
-    <text x="12" y="17" class="p-tag">Python</text>
+    <rect x="0" y="0" width="92" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="12" y="17" class="p-tag">Algorithms</text>
 
     <!-- Pill 2 -->
-    <rect x="84" y="0" width="100" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
-    <text x="96" y="17" class="p-tag">AI Analytics</text>
+    <rect x="100" y="0" width="102" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="112" y="17" class="p-tag">Data Logic</text>
 
     <!-- Pill 3 -->
-    <rect x="192" y="0" width="94" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
-    <text x="204" y="17" class="p-tag">Algorithms</text>
+    <rect x="210" y="0" width="84" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="222" y="17" class="p-tag">Analytics</text>
 
     <!-- Pill 4 -->
-    <rect x="294" y="0" width="94" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
-    <text x="306" y="17" class="p-tag">FinTech</text>
+    <rect x="302" y="0" width="80" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="314" y="17" class="p-tag">FinTech</text>
   </g>
 
   <!-- Arrow Indicator -->

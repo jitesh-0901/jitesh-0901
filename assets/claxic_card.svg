@@ -42,16 +42,16 @@
     <text x="12" y="17" class="p-tag">React.js</text>
 
     <!-- Pill 2 -->
-    <rect x="90" y="0" width="76" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
-    <text x="102" y="17" class="p-tag">Next.js</text>
+    <rect x="90" y="0" width="88" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="100" y="17" class="p-tag">JavaScript</text>
 
     <!-- Pill 3 -->
-    <rect x="174" y="0" width="84" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
-    <text x="186" y="17" class="p-tag">Node.js</text>
+    <rect x="186" y="0" width="80" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="198" y="17" class="p-tag">Node.js</text>
 
     <!-- Pill 4 -->
-    <rect x="266" y="0" width="102" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
-    <text x="278" y="17" class="p-tag">Tailwind CSS</text>
+    <rect x="274" y="0" width="102" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="286" y="17" class="p-tag">Tailwind CSS</text>
   </g>
 
   <!-- Arrow Indicator -->
