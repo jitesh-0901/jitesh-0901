@@ -41,14 +41,9 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img src="assets/developer_hero.jpg" width="220" style="border-radius: 16px; max-width: 100%;" alt="Jitesh P" />
-  <br/>
-  <sub><b>Jitesh P</b> &bull; Full Stack Developer &bull; BCA Student</sub><br/>
-  <sub><i>Karpagam Academy of Higher Education (2025–2028)</i></sub>
-</div>
-
-<br/>
+<a href="https://github.com/jitesh-0901">
+  <img align="right" src="assets/developer_hero.jpg" width="240" style="border-radius: 16px; margin-left: 20px; margin-bottom: 20px;" alt="Jitesh P" />
+</a>
 
 > *"Building Ideas Into Real-World Applications"*
 
@@ -70,6 +65,8 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
     <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-FF2B12?style=flat-square" alt="Role" />
   </a>
 </div>
+
+<br clear="both"/>
 
 <br/>
 
