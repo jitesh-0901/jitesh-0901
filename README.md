@@ -173,6 +173,18 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 
 ---
 
+## ⚡ Recent GitHub Activity
+
+> *⚡ Real-time activity synced live from GitHub events.*
+
+<!-- RECENT_ACTIVITY:START -->
+- 🚀 Made repository [**Captrix-Software**](https://github.com/jitesh-0901/Captrix-Software) public &bull; *Jun 12, 2026*
+- 🔨 Pushed 1 commit to [**Claxic-**](https://github.com/jitesh-0901/Claxic-) &bull; *Oct 16, 2026*
+- 🔨 Pushed 1 commit to [**Claxic-**](https://github.com/jitesh-0901/Claxic-) &bull; *Oct 11, 2026*
+- 🔨 Pushed 1 commit to [**Claxic-**](https://github.com/jitesh-0901/Claxic-) &bull; *Oct 10, 2026*
+- 🔨 Pushed 1 commit to [**Claxic-**](https://github.com/jitesh-0901/Claxic-) &bull; *Oct 9, 2026*
+<!-- RECENT_ACTIVITY:END -->
+
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
@@ -181,19 +193,19 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 <tr>
 <td width="50%" align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3" alt="Jitesh P GitHub Stats" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792845806899" alt="Jitesh P GitHub Stats" width="100%" />
   </a>
 </td>
 <td width="50%" align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3" alt="Top Languages" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792845806899" alt="Top Languages" width="100%" />
   </a>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792845806899" alt="GitHub Streak" width="100%" />
   </a>
 </td>
 </tr>
