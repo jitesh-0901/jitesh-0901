@@ -13,11 +13,8 @@ const CUSTOM_METADATA = {
   'Captrix-Software': {
     desc: 'Intelligent financial data evaluation and algorithmic analysis software',
     tech: 'Algorithms, Data Logic'
-  },
-  'surprise-14': {
-    desc: 'Interactive celebratory web application experience',
-    tech: 'JavaScript, CSS3'
   }
+
 };
 
 async function fetchRepos(headers) {
