@@ -42,7 +42,7 @@
 ## 👨‍💻 About Me
 
 <a href="https://github.com/jitesh-0901">
-  <img align="right" src="assets/developer_hero.jpg" width="240" style="border-radius: 16px; margin-left: 20px; margin-bottom: 20px;" alt="Jitesh P" />
+  <img align="right" src="assets/jitesh_hero.jpg" width="240" style="border-radius: 16px; margin-left: 20px; margin-bottom: 20px;" alt="Jitesh P" />
 </a>
 
 > *"Building Ideas Into Real-World Applications"*
