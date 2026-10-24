@@ -170,17 +170,17 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792865071826" alt="Jitesh P GitHub Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792869041992" alt="Jitesh P GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/jitesh-0901">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792865071826" alt="Top Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792869041992" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792865071826" alt="GitHub Streak" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792869041992" alt="GitHub Streak" />
   </a>
 </p>
 
