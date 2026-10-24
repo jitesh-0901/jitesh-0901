@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="100%" height="250">
+  <defs>
+    <linearGradient id="cardBg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#0E1218" />
+    </linearGradient>
+    <linearGradient id="orangeGlow2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2B12" />
+      <stop offset="100%" stop-color="#FF5733" />
+    </linearGradient>
+    <style>
+      .p-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; font-size: 26px; fill: #FFFFFF; }
+      .p-cat { font-family: 'Fira Code', monospace; font-size: 11.5px; font-weight: 700; fill: #FF2B12; letter-spacing: 1.5px; }
+      .p-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; fill: #8B949E; line-height: 1.5; }
+      .p-tag { font-family: 'Fira Code', monospace; font-size: 11px; fill: #C9D1D9; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="558" height="248" rx="14" fill="url(#cardBg2)" stroke="#30363D" stroke-width="1.2" />
+  <rect x="30" y="1" width="120" height="3" rx="1.5" fill="url(#orangeGlow2)" />
+
+  <!-- Status Pill -->
+  <g transform="translate(410, 24)">
+    <rect x="0" y="0" width="120" height="26" rx="13" fill="#1F2937" stroke="#374151" stroke-width="1" />
+    <circle cx="14" cy="13" r="4" fill="#38BDF8" />
+    <text x="26" y="17" font-family="-apple-system, sans-serif" font-size="11.5" font-weight="600" fill="#E6EDF3">AI SYSTEM</text>
+  </g>
+
+  <!-- Category & Title -->
+  <text x="32" y="42" class="p-cat">FINANCIAL INTELLIGENCE</text>
+  <text x="32" y="78" class="p-title">CAPTRIX AI</text>
+
+  <!-- Description -->
+  <text x="32" y="112" class="p-desc">High-performance Financial Intelligence Software engineered</text>
+  <text x="32" y="134" class="p-desc">with Python, real-time market data evaluation algorithms,</text>
+  <text x="32" y="156" class="p-desc">and automated decision-support intelligence workflows.</text>
+
+  <!-- Tech Stack Pills -->
+  <g transform="translate(32, 186)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="76" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="12" y="17" class="p-tag">Python</text>
+
+    <!-- Pill 2 -->
+    <rect x="84" y="0" width="100" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="96" y="17" class="p-tag">AI Analytics</text>
+
+    <!-- Pill 3 -->
+    <rect x="192" y="0" width="94" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="204" y="17" class="p-tag">Algorithms</text>
+
+    <!-- Pill 4 -->
+    <rect x="294" y="0" width="94" height="26" rx="6" fill="#21262D" stroke="#30363D" stroke-width="1" />
+    <text x="306" y="17" class="p-tag">FinTech</text>
+  </g>
+
+  <!-- Arrow Indicator -->
+  <g transform="translate(508, 190)">
+    <circle cx="12" cy="12" r="14" fill="#FF2B12" fill-opacity="0.15" />
+    <path d="M8 12H16M12 8L16 12L12 16" stroke="#FF2B12" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+</svg>

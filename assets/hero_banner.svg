@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#12161F" />
+      <stop offset="100%" stop-color="#0A0D12" />
+    </linearGradient>
+
+    <!-- Orange Accent Gradient -->
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2B12" />
+      <stop offset="50%" stop-color="#FF5733" />
+      <stop offset="100%" stop-color="#FF8A00" />
+    </linearGradient>
+
+    <!-- Accent Glow -->
+    <radialGradient id="glowTopRight" cx="90%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#FF2B12" stop-opacity="0.18" />
+      <stop offset="60%" stop-color="#FF2B12" stop-opacity="0.03" />
+      <stop offset="100%" stop-color="#FF2B12" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowBottomLeft" cx="10%" cy="90%" r="50%">
+      <stop offset="0%" stop-color="#FF2B12" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Card Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF2B12" stop-opacity="0.8" />
+      <stop offset="30%" stop-color="#30363D" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#161B22" stop-opacity="0.4" />
+    </linearGradient>
+
+    <!-- Dot Pattern -->
+    <pattern id="gridDots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#30363D" fill-opacity="0.4" />
+    </pattern>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+        font-weight: 800;
+        fill: #FFFFFF;
+        letter-spacing: -1.5px;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+        font-weight: 600;
+        font-size: 13px;
+        letter-spacing: 1.5px;
+        fill: #FF2B12;
+      }
+      .subtext {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+        font-size: 19px;
+        font-weight: 400;
+        fill: #8B949E;
+      }
+      .tag {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        fill: #C9D1D9;
+      }
+      .code-line {
+        font-family: 'Fira Code', 'SF Mono', Consolas, monospace;
+        font-size: 14px;
+        fill: #FF5733;
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 1; filter: drop-shadow(0 0 12px rgba(255,43,18,0.7)); }
+      }
+      @keyframes radarSweep {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      .radar-line {
+        transform-origin: 1040px 170px;
+        animation: radarSweep 8s linear infinite;
+      }
+      .pulsing-dot {
+        animation: pulseGlow 2.5s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Canvas Box -->
+  <rect x="0" y="0" width="1200" height="340" rx="16" fill="url(#bgGrad)" />
+  <rect x="0" y="0" width="1200" height="340" rx="16" fill="url(#glowTopRight)" />
+  <rect x="0" y="0" width="1200" height="340" rx="16" fill="url(#glowBottomLeft)" />
+  <rect x="0" y="0" width="1200" height="340" rx="16" fill="url(#gridDots)" />
+  <rect x="0" y="0" width="1200" height="340" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Top Orange Accent Bar -->
+  <rect x="40" y="0" width="300" height="3" rx="1.5" fill="url(#orangeGrad)" />
+
+  <!-- Left Content Column -->
+  <!-- Status Pill -->
+  <g transform="translate(60, 48)">
+    <rect x="0" y="0" width="220" height="30" rx="15" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <circle cx="16" cy="15" r="4.5" fill="#FF2B12" class="pulsing-dot" />
+    <text x="32" y="19.5" class="badge-text">PORTFOLIO EDITION</text>
+  </g>
+
+  <!-- Hero Title -->
+  <g transform="translate(60, 138)">
+    <text x="0" y="0" class="title" font-size="58">JITESH P</text>
+    <circle cx="280" cy="-14" r="7" fill="#FF2B12" />
+  </g>
+
+  <!-- Tagline / Role -->
+  <g transform="translate(60, 178)">
+    <text x="0" y="0" class="subtext">
+      <tspan fill="#FF2B12" font-weight="600">Full Stack Developer</tspan>
+      <tspan fill="#484F58"> | </tspan>
+      <tspan fill="#E6EDF3">BCA Student</tspan>
+      <tspan fill="#484F58"> | </tspan>
+      <tspan fill="#8B949E">Developer &amp; Vibe Coder</tspan>
+    </text>
+  </g>
+
+  <!-- Mission Quote -->
+  <g transform="translate(60, 222)">
+    <text x="0" y="0" class="code-line">
+      &gt; "Building Ideas Into Real-World Applications"
+    </text>
+  </g>
+
+  <!-- Education & Campus Pill -->
+  <g transform="translate(60, 260)">
+    <!-- Pill 1: College -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="310" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1" />
+      <!-- University Icon -->
+      <path d="M12 9L2 14L12 19L22 14L12 9Z M2 14V21 M22 14V21 M7 16.5V22.5" stroke="#FF2B12" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(10, 4) scale(0.9)" />
+      <text x="42" y="21" class="tag" font-size="12.5" fill="#E6EDF3">Karpagam Academy of Higher Ed</text>
+    </g>
+
+    <!-- Pill 2: Batch -->
+    <g transform="translate(325, 0)">
+      <rect x="0" y="0" width="130" height="34" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1" />
+      <text x="18" y="21" class="tag" font-size="12.5" fill="#8B949E">BCA 2025–2028</text>
+    </g>
+
+    <!-- Pill 3: Status -->
+    <g transform="translate(470, 0)">
+      <rect x="0" y="0" width="185" height="34" rx="8" fill="#1F1612" stroke="#FF2B12" stroke-opacity="0.4" stroke-width="1" />
+      <circle cx="16" cy="17" r="4" fill="#00D26A" />
+      <text x="28" y="21" class="tag" font-size="12.5" fill="#E6EDF3">Open to Collaborate</text>
+    </g>
+  </g>
+
+  <!-- Right Side Decorative Tech Geometry -->
+  <g transform="translate(860, 40)" opacity="0.9">
+    <!-- Outer concentric radar ring -->
+    <circle cx="180" cy="130" r="120" fill="none" stroke="#30363D" stroke-width="1" stroke-dasharray="4 6" opacity="0.5" />
+    <circle cx="180" cy="130" r="80" fill="none" stroke="#FF2B12" stroke-width="1" stroke-opacity="0.25" />
+    <circle cx="180" cy="130" r="40" fill="#161B22" stroke="#FF2B12" stroke-width="1.5" />
+
+    <!-- Core Terminal Icon -->
+    <path d="M168 123L175 130L168 137M179 137H192" stroke="#FF2B12" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+
+    <!-- Orbital Dots -->
+    <circle cx="300" cy="130" r="4" fill="#FF5733" />
+    <circle cx="180" cy="10" r="3.5" fill="#FF8A00" />
+    <circle cx="95" cy="190" r="3" fill="#8B949E" />
+
+    <!-- Mini Metric Badge -->
+    <g transform="translate(80, 220)">
+      <rect x="0" y="0" width="200" height="42" rx="10" fill="#161B22" stroke="#FF2B12" stroke-opacity="0.5" stroke-width="1.2" />
+      <text x="18" y="26" font-family="'Fira Code', monospace" font-size="12" fill="#E6EDF3">
+        STACK: <tspan fill="#FF2B12" font-weight="700">FULL-STACK + AI</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

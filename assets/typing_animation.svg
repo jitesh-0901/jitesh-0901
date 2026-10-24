@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 56" width="100%" height="56">
+  <defs>
+    <linearGradient id="barBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#12161F" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+    <style>
+      .prompt {
+        font-family: 'Fira Code', 'SF Mono', Consolas, 'Courier New', monospace;
+        font-size: 15px;
+        font-weight: 600;
+        fill: #8B949E;
+      }
+      .cursor {
+        fill: #FF2B12;
+        animation: blink 0.8s infinite;
+      }
+      .role-text {
+        font-family: 'Fira Code', 'SF Mono', Consolas, 'Courier New', monospace;
+        font-size: 16px;
+        font-weight: 700;
+        fill: #FF2B12;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes cycle1 {
+        0%, 22% { opacity: 1; transform: translateY(0); }
+        25%, 100% { opacity: 0; transform: translateY(-8px); }
+      }
+      @keyframes cycle2 {
+        0%, 24% { opacity: 0; transform: translateY(8px); }
+        26%, 47% { opacity: 1; transform: translateY(0); }
+        50%, 100% { opacity: 0; transform: translateY(-8px); }
+      }
+      @keyframes cycle3 {
+        0%, 49% { opacity: 0; transform: translateY(8px); }
+        51%, 72% { opacity: 1; transform: translateY(0); }
+        75%, 100% { opacity: 0; transform: translateY(-8px); }
+      }
+      @keyframes cycle4 {
+        0%, 74% { opacity: 0; transform: translateY(8px); }
+        76%, 97% { opacity: 1; transform: translateY(0); }
+        100% { opacity: 0; transform: translateY(-8px); }
+      }
+      .t1 { animation: cycle1 12s infinite ease-in-out; }
+      .t2 { animation: cycle2 12s infinite ease-in-out; }
+      .t3 { animation: cycle3 12s infinite ease-in-out; }
+      .t4 { animation: cycle4 12s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="848" height="54" rx="10" fill="url(#barBg)" stroke="#30363D" stroke-width="1.2" />
+
+  <!-- Terminal Dot Indicators -->
+  <circle cx="22" cy="28" r="4.5" fill="#FF2B12" />
+  <circle cx="36" cy="28" r="4.5" fill="#30363D" />
+  <circle cx="50" cy="28" r="4.5" fill="#21262D" />
+
+  <!-- Terminal Label -->
+  <text x="74" y="33" class="prompt">jitesh@portfolio:~$ <tspan fill="#E6EDF3">role</tspan> --active <tspan fill="#6E7681">&gt;</tspan></text>
+
+  <!-- Animated Rotating Phrases -->
+  <g transform="translate(385, 33)">
+    <g class="t1">
+      <text x="0" y="0" class="role-text">"Full Stack Developer"</text>
+      <rect x="208" y="-14" width="9" height="17" class="cursor" />
+    </g>
+    <g class="t2">
+      <text x="0" y="0" class="role-text">"Web Developer"</text>
+      <rect x="148" y="-14" width="9" height="17" class="cursor" />
+    </g>
+    <g class="t3">
+      <text x="0" y="0" class="role-text">"BCA Student"</text>
+      <rect x="128" y="-14" width="9" height="17" class="cursor" />
+    </g>
+    <g class="t4">
+      <text x="0" y="0" class="role-text">"AI-Assisted Developer"</text>
+      <rect x="225" y="-14" width="9" height="17" class="cursor" />
+    </g>
+  </g>
+</svg>
