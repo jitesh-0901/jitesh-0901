@@ -42,7 +42,7 @@
 ## 👨‍💻 About Me
 
 <a href="https://github.com/jitesh-0901">
-  <img align="right" src="assets/jitesh_hero.jpg" width="240" style="border-radius: 16px; margin-left: 20px; margin-bottom: 20px;" alt="Jitesh P" />
+  <img align="right" src="assets/jitesh_hero.jpg" width="150" style="border-radius: 12px; margin-left: 18px; margin-bottom: 12px;" alt="Jitesh P" />
 </a>
 
 > *"Building Ideas Into Real-World Applications"*
@@ -95,7 +95,7 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 ### 🎓 [CLAXIC — Education Platform](https://github.com/jitesh-0901/Claxic-)
 
 <a href="https://github.com/jitesh-0901/Claxic-">
-  <img src="assets/claxic_animated.svg" alt="CLAXIC - Education Technology Platform" width="100%" />
+  <img src="assets/claxic_animated.svg" alt="CLAXIC - Education Technology Platform" width="560" style="max-width: 100%;" />
 </a>
 
 *A comprehensive digital learning platform engineered to streamline modern academic workflows, course delivery, and student engagement.*
@@ -114,7 +114,7 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 ### 📈 [CAPTRIX — Financial Software](https://github.com/jitesh-0901/Captrix-Software)
 
 <a href="https://github.com/jitesh-0901/Captrix-Software">
-  <img src="assets/captrix_animated.svg" alt="CAPTRIX - Financial Intelligence Platform" width="100%" />
+  <img src="assets/captrix_animated.svg" alt="CAPTRIX - Financial Intelligence Platform" width="560" style="max-width: 100%;" />
 </a>
 
 *An intelligent software solution built to analyze financial data, evaluate market indicators, and power automated intelligence workflows.*
@@ -170,19 +170,17 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792865071826" alt="Jitesh P GitHub Stats" width="100%" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792865071826" alt="Jitesh P GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jitesh-0901">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792865071826" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792865071826" alt="Top Languages" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792865071826" alt="GitHub Streak" width="100%" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792865071826" alt="GitHub Streak" />
   </a>
 </p>
 
