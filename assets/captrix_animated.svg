@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 170" width="100%" height="170">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="capBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1110" />
+      <stop offset="50%" stop-color="#141118" />
+      <stop offset="100%" stop-color="#0E0D13" />
+    </linearGradient>
+
+    <linearGradient id="capBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5733" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#FF2B12" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#302028" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="capTitleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF8A00" />
+      <stop offset="50%" stop-color="#FF2B12" />
+      <stop offset="100%" stop-color="#FF6584" />
+    </linearGradient>
+
+    <linearGradient id="capCoreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA580C" />
+      <stop offset="100%" stop-color="#991B1B" />
+    </linearGradient>
+
+    <!-- Radial Glow -->
+    <radialGradient id="capGlow" cx="80%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF2B12" stop-opacity="0.2" />
+      <stop offset="60%" stop-color="#FF8A00" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#0E0D13" stop-opacity="0" />
+    </radialGradient>
+
+    <filter id="capFilter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <style>
+      .cap-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 26px;
+        font-weight: 900;
+        letter-spacing: -0.5px;
+        fill: url(#capTitleGrad);
+      }
+      .cap-badge {
+        font-family: 'Fira Code', monospace;
+        font-size: 10px;
+        font-weight: 700;
+        letter-spacing: 1.4px;
+        fill: #FF5733;
+      }
+      .cap-sub {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 13px;
+        font-weight: 400;
+        fill: #94A3B8;
+      }
+      .cap-pill-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        fill: #E2E8F0;
+      }
+
+      @keyframes finFloat {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-7px) rotate(-1deg); }
+      }
+      @keyframes satFloat1 {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-9px) rotate(3deg); }
+      }
+      @keyframes satFloat2 {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-6px) rotate(-3deg); }
+      }
+      @keyframes bar1 {
+        0%, 100% { height: 14px; y: -7px; }
+        50% { height: 24px; y: -12px; }
+      }
+      @keyframes bar2 {
+        0%, 100% { height: 22px; y: -11px; }
+        50% { height: 12px; y: -6px; }
+      }
+      @keyframes bar3 {
+        0%, 100% { height: 16px; y: -8px; }
+        50% { height: 28px; y: -14px; }
+      }
+      @keyframes radarSpin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes livePulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.35; transform: scale(0.8); }
+      }
+
+      .f-fin-core {
+        animation: finFloat 4.2s ease-in-out infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      .f-fin-sat-1 {
+        animation: satFloat1 3.8s ease-in-out infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      .f-fin-sat-2 {
+        animation: satFloat2 4.4s ease-in-out infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      .p-ring {
+        animation: radarSpin 20s linear infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      .b-1 { animation: bar1 2.2s ease-in-out infinite; }
+      .b-2 { animation: bar2 2.8s ease-in-out infinite; }
+      .b-3 { animation: bar3 2.5s ease-in-out infinite; }
+      .p-dot-fin {
+        animation: livePulse 1.8s ease-in-out infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+    </style>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="2" y="2" width="716" height="166" rx="14" fill="url(#capBg)" stroke="url(#capBorder)" stroke-width="1.2" />
+  <rect x="360" y="2" width="358" height="166" rx="14" fill="url(#capGlow)" />
+
+  <!-- Dots Matrix -->
+  <g opacity="0.15">
+    <circle cx="480" cy="40" r="1.5" fill="#FF5733" /><circle cx="520" cy="40" r="1.5" fill="#FF5733" /><circle cx="560" cy="40" r="1.5" fill="#FF5733" /><circle cx="600" cy="40" r="1.5" fill="#FF5733" /><circle cx="640" cy="40" r="1.5" fill="#FF5733" />
+    <circle cx="480" cy="85" r="1.5" fill="#FF5733" /><circle cx="520" cy="85" r="1.5" fill="#FF5733" /><circle cx="560" cy="85" r="1.5" fill="#FF5733" /><circle cx="600" cy="85" r="1.5" fill="#FF5733" /><circle cx="640" cy="85" r="1.5" fill="#FF5733" />
+    <circle cx="480" cy="130" r="1.5" fill="#FF5733" /><circle cx="520" cy="130" r="1.5" fill="#FF5733" /><circle cx="560" cy="130" r="1.5" fill="#FF5733" /><circle cx="600" cy="130" r="1.5" fill="#FF5733" /><circle cx="640" cy="130" r="1.5" fill="#FF5733" />
+  </g>
+
+  <!-- LEFT: Project Identity -->
+  <g transform="translate(32, 26)">
+    <!-- Pill -->
+    <rect x="0" y="0" width="170" height="22" rx="11" fill="#991B1B" fill-opacity="0.25" stroke="#DC2626" stroke-opacity="0.5" stroke-width="1" />
+    <circle cx="11" cy="11" r="3" fill="#FF5733" class="p-dot-fin" />
+    <text x="22" y="15" class="cap-badge">FINANCIAL INTELLIGENCE</text>
+
+    <!-- Title -->
+    <text x="0" y="55" class="cap-title">CAPTRIX</text>
+
+    <!-- Tagline -->
+    <text x="0" y="80" class="cap-sub">Automated Market Analytics &amp; Algorithmic Data Logic</text>
+
+    <!-- Mini Features -->
+    <g transform="translate(0, 98)">
+      <rect x="0" y="0" width="94" height="22" rx="6" fill="#1C1917" stroke="#3730A3" stroke-opacity="0.3" stroke-width="1" />
+      <text x="10" y="15" class="cap-pill-text">⚡ Algorithms</text>
+
+      <rect x="102" y="0" width="88" height="22" rx="6" fill="#1C1917" stroke="#3730A3" stroke-opacity="0.3" stroke-width="1" />
+      <text x="112" y="15" class="cap-pill-text">📈 Analytics</text>
+
+      <rect x="198" y="0" width="82" height="22" rx="6" fill="#1C1917" stroke="#3730A3" stroke-opacity="0.3" stroke-width="1" />
+      <text x="208" y="15" class="cap-pill-text">💹 FinTech</text>
+    </g>
+  </g>
+
+  <!-- RIGHT: Animated Floating Core & Orbiting Badges -->
+  <g transform="translate(575, 85)">
+    <!-- Orbit Track -->
+    <circle cx="0" cy="0" r="50" fill="none" stroke="#FF5733" stroke-width="1.2" stroke-dasharray="5 5" opacity="0.35" class="p-ring" />
+    <circle cx="0" cy="0" r="38" fill="#FF2B12" fill-opacity="0.08" />
+
+    <!-- Center Floating Emblem: Diamond with Dynamic Market Bars -->
+    <g class="f-fin-core">
+      <polygon points="0,-36 33,0 0,36 -33,0" fill="url(#capCoreGrad)" stroke="#FF5733" stroke-width="1.8" filter="url(#capFilter)" />
+      <polygon points="0,-29 26,0 0,29 -26,0" fill="#180C0E" fill-opacity="0.9" stroke="#FF8A00" stroke-width="1" />
+
+      <!-- Candlestick chart inside -->
+      <g transform="translate(0, 0)">
+        <line x1="-12" y1="-14" x2="-12" y2="14" stroke="#22C55E" stroke-width="1" opacity="0.6" />
+        <rect x="-15" y="-7" width="6" height="14" rx="1.5" fill="#22C55E" class="b-1" />
+
+        <line x1="0" y1="-15" x2="0" y2="15" stroke="#FF8A00" stroke-width="1" opacity="0.6" />
+        <rect x="-3" y="-11" width="6" height="22" rx="1.5" fill="#FF8A00" class="b-2" />
+
+        <line x1="12" y1="-16" x2="12" y2="16" stroke="#4ADE80" stroke-width="1" opacity="0.6" />
+        <rect x="9" y="-8" width="6" height="16" rx="1.5" fill="#4ADE80" class="b-3" />
+
+        <polyline points="-14,4 -3,-3 11,-10" fill="none" stroke="#38BDF8" stroke-width="1.8" stroke-linecap="round" />
+        <circle cx="11" cy="-10" r="2" fill="#38BDF8" />
+      </g>
+    </g>
+
+    <!-- Satellite: Dollar Growth (Top Right) -->
+    <g transform="translate(56, -38)" class="f-fin-sat-1">
+      <rect x="-16" y="-14" width="32" height="28" rx="8" fill="#180C0E" stroke="#22C55E" stroke-width="1.2" filter="url(#capFilter)" />
+      <text x="0" y="4.5" text-anchor="middle" font-family="'Fira Code', monospace" font-size="13" font-weight="900" fill="#22C55E">$</text>
+    </g>
+
+    <!-- Satellite: AI Hexagon (Bottom Right) -->
+    <g transform="translate(52, 40)" class="f-fin-sat-2">
+      <polygon points="0,-14 13,-7 13,7 0,14 -13,7 -13,-7" fill="#180C0E" stroke="#38BDF8" stroke-width="1.2" filter="url(#capFilter)" />
+      <text x="0" y="3.5" text-anchor="middle" font-family="'Fira Code', monospace" font-size="8" font-weight="900" fill="#38BDF8">AI</text>
+    </g>
+
+    <!-- Satellite: Indicator (Bottom Left) -->
+    <g transform="translate(-56, 36)" class="f-fin-sat-1">
+      <rect x="-17" y="-14" width="34" height="28" rx="8" fill="#180C0E" stroke="#E11D48" stroke-width="1.2" filter="url(#capFilter)" />
+      <path d="M-8,3 L-2,-3 L2,1 L9,-6" fill="none" stroke="#FB7185" stroke-width="1.6" stroke-linecap="round" />
+    </g>
+
+    <!-- Satellite: {f(x)} (Top Left) -->
+    <g transform="translate(-58, -36)" class="f-fin-sat-2">
+      <rect x="-17" y="-14" width="34" height="28" rx="8" fill="#180C0E" stroke="#FF8A00" stroke-width="1.2" filter="url(#capFilter)" />
+      <text x="0" y="4" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="900" fill="#FF8A00">{fx}</text>
+    </g>
+  </g>
+</svg>

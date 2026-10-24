@@ -95,7 +95,7 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 ### 🎓 [CLAXIC — Education Platform](https://github.com/jitesh-0901/Claxic-)
 
 <a href="https://github.com/jitesh-0901/Claxic-">
-  <img src="assets/claxic_card.svg" alt="CLAXIC - Education Technology Platform" width="100%" />
+  <img src="assets/claxic_animated.svg" alt="CLAXIC - Education Technology Platform" width="100%" />
 </a>
 
 *A comprehensive digital learning platform engineered to streamline modern academic workflows, course delivery, and student engagement.*
@@ -114,7 +114,7 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 ### 📈 [CAPTRIX — Financial Software](https://github.com/jitesh-0901/Captrix-Software)
 
 <a href="https://github.com/jitesh-0901/Captrix-Software">
-  <img src="assets/captrix_card.svg" alt="CAPTRIX - Financial Intelligence Platform" width="100%" />
+  <img src="assets/captrix_animated.svg" alt="CAPTRIX - Financial Intelligence Platform" width="100%" />
 </a>
 
 *An intelligent software solution built to analyze financial data, evaluate market indicators, and power automated intelligence workflows.*
