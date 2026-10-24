@@ -153,8 +153,8 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 > *⚡ Real-time activity synced live from GitHub events.*
 
 <!-- RECENT_ACTIVITY:START -->
-- ✨ Created branch [**jitesh-0901**](https://github.com/jitesh-0901/jitesh-0901) &bull; *Oct 24, 2026*
 - 🔨 Pushed 1 commit to [**jitesh-0901**](https://github.com/jitesh-0901/jitesh-0901) &bull; *Oct 24, 2026*
+- ✨ Created branch [**jitesh-0901**](https://github.com/jitesh-0901/jitesh-0901) &bull; *Oct 24, 2026*
 - 🚀 Made repository [**Captrix-Software**](https://github.com/jitesh-0901/Captrix-Software) public &bull; *Jun 12, 2026*
 - 🔨 Pushed 1 commit to [**Claxic-**](https://github.com/jitesh-0901/Claxic-) &bull; *Oct 16, 2026*
 - 🔨 Pushed 1 commit to [**Claxic-**](https://github.com/jitesh-0901/Claxic-) &bull; *Oct 10, 2026*
@@ -170,19 +170,19 @@ I am a web developer and BCA student at **Karpagam Academy of Higher Education**
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792861199144" alt="Jitesh P GitHub Stats" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jitesh-0901&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&icon_color=FF2B12&text_color=E6EDF3&t=1792865071826" alt="Jitesh P GitHub Stats" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792861199144" alt="Top Languages" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-0901&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=FF2B12&text_color=E6EDF3&t=1792865071826" alt="Top Languages" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jitesh-0901">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792861199144" alt="GitHub Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitesh-0901&theme=dark&background=0D1117&border=30363D&stroke=FF2B12&ring=FF2B12&fire=FF2B12&currStreakNum=FF2B12&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&t=1792865071826" alt="GitHub Streak" width="100%" />
   </a>
 </p>
 
